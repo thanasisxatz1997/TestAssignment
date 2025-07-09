@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestAssignment</string>
+    <string name="image">start_image</string>
+    <string name="capture_image">Capture image</string>
+    <string name="stream_video">Stream Video</string>
+    <string name="upload_image">Upload image</string>
+    <string name="switch_camera">Switch Camera</string>
+    <string name="stats">Stats</string>
+    <string name="frames_sent0">Frames sent: 0</string>
+    <string name="bytes_sent0">Bytes sent: 0</string>
+    <string name="reset_stats">Reset Stats</string>
+</resources>
